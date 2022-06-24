@@ -1,0 +1,10 @@
+:root{
+    --branco:rgb(58, 86, 75);
+    --preta:#141414ec;
+
+}
+body{
+    background: var(--branco);
+    font-family: 'Arial', Times, serif;
+    color:black;
+}
